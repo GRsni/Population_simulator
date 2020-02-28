@@ -90,5 +90,8 @@ class COLORS {
 	public final int TREE = 0xff115d03;
 	public final int ROCK = 0xffbbbbbb;
 	public final int SNOW = 0xffffffff;
+	public final int RED_TEAM= 0xffff0000;
+	public final int GREEN_TEAM = 0xff00ff00;
+	public final int BLUE_TEAM = 0xff0000ff;
 
 }
